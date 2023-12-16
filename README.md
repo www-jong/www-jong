@@ -31,5 +31,5 @@
            /> </div> 
     </div>
     <div align= "center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weon1009)](https://solved.ac/weon1009/)
+[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=weon1009)](https://solved.ac/weon1009/)
     </div>

@@ -11,7 +11,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 백엔드 개발자를 준비하고 있는 원종현 입니다. </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 새로운 기술을 배우고 사용하는 것을 좋아합니다. </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 무엇이든 시도하고 실패하는 것에 대해 겁내지 않습니다. </div> 
-        
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 

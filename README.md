@@ -3,6 +3,9 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwww-jong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     </a>
 </p>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=Hi!&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>

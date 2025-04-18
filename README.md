@@ -4,7 +4,7 @@
     </a>
 </p>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/www-jong?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/www-jong"/>
 </a>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=Hi!&animation=fadeIn&fontColor=ffffff&fontSize=40" />
